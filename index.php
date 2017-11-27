@@ -72,19 +72,19 @@
           <h4>Past Issues</h4>
           <div class="large-12 bottom">
             <img src="http://placehold.it/300X400?text=COVER" alt="">
-            <a href="#">Volume I</a>
+            <a href="issue.php">Volume I</a>
           </div>
           <div class="large-12 bottom">
             <img src="http://placehold.it/300x400?text=COVER" alt="">
-            <a href="#">Volume II</a>
+            <a href="issue.php">Volume II</a>
           </div>
           <div class="large-12 bottom">
             <img src="http://placehold.it/300x400?text=COVER" alt="">
-            <a href="#">Volume III</a>
+            <a href="issue.php">Volume III</a>
           </div>
           <div class="large-12 bottom">
             <img src="http://placehold.it/300x400?text=COVER" alt="">
-            <a href="#">Volume IV</a>
+            <a href="issue.php">Volume IV</a>
           </div>
         </div>
       </div>
